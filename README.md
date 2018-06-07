@@ -1,2 +1,3 @@
 # load-tests
-Load Test Used for Health Check
+
+Load Test Used for Health Check with template

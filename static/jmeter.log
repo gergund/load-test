@@ -1,0 +1,81 @@
+2018-06-07 15:50:39,742 INFO o.a.j.u.JMeterUtils: Setting Locale to en_US
+2018-06-07 15:50:39,751 INFO o.a.j.JMeter: Loading user properties from: /Users/dgergun/CODE/Jmeter-3.3/bin/user.properties
+2018-06-07 15:50:39,752 INFO o.a.j.JMeter: Loading system properties from: /Users/dgergun/CODE/Jmeter-3.3/bin/system.properties
+2018-06-07 15:50:39,756 INFO o.a.j.JMeter: Copyright (c) 1998-2017 The Apache Software Foundation
+2018-06-07 15:50:39,757 INFO o.a.j.JMeter: Version 3.3 r1808647
+2018-06-07 15:50:39,757 INFO o.a.j.JMeter: java.version=1.8.0_171
+2018-06-07 15:50:39,757 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2018-06-07 15:50:39,757 INFO o.a.j.JMeter: os.name=Mac OS X
+2018-06-07 15:50:39,757 INFO o.a.j.JMeter: os.arch=x86_64
+2018-06-07 15:50:39,757 INFO o.a.j.JMeter: os.version=10.13.5
+2018-06-07 15:50:39,757 INFO o.a.j.JMeter: file.encoding=UTF-8
+2018-06-07 15:50:39,757 INFO o.a.j.JMeter: Max memory     =536870912
+2018-06-07 15:50:39,758 INFO o.a.j.JMeter: Available Processors =8
+2018-06-07 15:50:39,761 INFO o.a.j.JMeter: Default Locale=English (United States)
+2018-06-07 15:50:39,761 INFO o.a.j.JMeter: JMeter  Locale=English (United States)
+2018-06-07 15:50:39,761 INFO o.a.j.JMeter: JMeterHome=/Users/dgergun/CODE/Jmeter-3.3
+2018-06-07 15:50:39,761 INFO o.a.j.JMeter: user.dir  =/Users/dgergun/CODE/load-tests/static
+2018-06-07 15:50:39,761 INFO o.a.j.JMeter: PWD       =/Users/dgergun/CODE/load-tests/static
+2018-06-07 15:50:40,039 INFO o.a.j.JMeter: IP: 10.235.69.32 Name: KBP-LM-001602 FullName: ip-10-235-69-32.ec2.internal
+2018-06-07 15:50:41,605 INFO o.a.j.g.a.LookAndFeelCommand: Using look and feel: com.apple.laf.AquaLookAndFeel [Mac OS X, System]
+2018-06-07 15:50:41,609 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2018-06-07 15:50:42,275 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must contain the string: '.functions.'
+2018-06-07 15:50:42,275 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must not contain the string: '.gui.'
+2018-06-07 15:50:43,009 INFO o.j.r.JARSourceHTTP: Found cached repo
+2018-06-07 15:50:43,134 INFO o.j.r.PluginManager: Plugins Status: [jpgc-graphs-basic=2.0, jpgc-cmd=2.1, jpgc-csl=0.1, jpgc-casutg=2.5, jpgc-ggl=2.0, jpgc-graphs-vs=2.0, jpgc-plugins-manager=0.0.0-STOCK, jmeter-core=3.3, jmeter-ftp=3.3, jmeter-http=3.3, jmeter-jdbc=3.3, jmeter-jms=3.3, jmeter-junit=3.3, jmeter-java=3.3, jmeter-ldap=3.3, jmeter-mail=3.3, jmeter-mongodb=3.3, jmeter-native=3.3, jmeter-tcp=3.3, jmeter-components=3.3]
+2018-06-07 15:50:43,138 INFO o.j.r.PluginManagerMenuItem: Plugins Manager has upgrades: [jpgc-plugins-manager]
+2018-06-07 15:50:43,289 INFO o.a.j.JMeter: Loading file: static_content_test.jmx
+2018-06-07 15:50:43,291 INFO o.a.j.s.FileServer: Default base='/Users/dgergun/CODE/load-tests/static'
+2018-06-07 15:50:43,291 INFO o.a.j.s.FileServer: Set new base='/Users/dgergun/CODE/load-tests/static'
+2018-06-07 15:50:43,407 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2018-06-07 15:50:43,409 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2018-06-07 15:50:43,410 INFO o.a.j.s.SaveService: Using SaveService properties version 3.2
+2018-06-07 15:50:43,412 INFO o.a.j.s.SaveService: Loading file: static_content_test.jmx
+2018-06-07 15:50:43,506 INFO o.a.j.p.h.c.CookieManager: Settings: Delete null: true Check: true Allow variable: true Save: false Prefix: COOKIE_
+2018-06-07 15:50:43,513 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2018-06-07 15:50:43,513 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2018-06-07 15:50:43,513 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2018-06-07 15:50:43,513 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2018-06-07 15:50:43,513 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2018-06-07 15:50:43,514 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2018-06-07 15:50:43,574 INFO o.a.j.s.FileServer: Set new base='/Users/dgergun/CODE/load-tests/static'
+2018-06-07 15:50:43,768 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2018-06-07 15:50:43,768 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to ISO-8859-1
+2018-06-07 15:50:43,769 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2018-06-07 15:50:43,769 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2018-06-07 15:50:43,993 WARN o.a.j.t.g.GenericTestBeanCustomizer: kg.apc.jmeter.listener.GraphsGeneratorListener#graphWidth(int) has a DEFAULT of class java.lang.String
+2018-06-07 15:50:43,993 WARN o.a.j.t.g.GenericTestBeanCustomizer: kg.apc.jmeter.listener.GraphsGeneratorListener#graphHeight(int) has a DEFAULT of class java.lang.String
+2018-06-07 15:50:44,124 INFO o.a.j.g.u.MenuFactory: Skipping org.apache.jmeter.assertions.BSFAssertion
+2018-06-07 15:50:44,357 INFO o.a.j.g.u.MenuFactory: Skipping org.apache.jmeter.extractor.BSFPostProcessor
+2018-06-07 15:50:44,380 INFO o.a.j.g.u.MenuFactory: Skipping org.apache.jmeter.modifiers.BSFPreProcessor
+2018-06-07 15:50:44,648 INFO o.a.j.e.KeyToolUtils: keytool found at 'keytool'
+2018-06-07 15:50:44,648 INFO o.a.j.p.h.p.ProxyControl: HTTP(S) Test Script Recorder SSL Proxy will use keys that support embedded 3rd party resources in file /Users/dgergun/CODE/Jmeter-3.3/bin/proxyserver.jks
+2018-06-07 15:50:44,745 INFO o.a.j.g.u.MenuFactory: Skipping org.apache.jmeter.protocol.java.sampler.BSFSampler
+2018-06-07 15:50:44,839 INFO o.a.j.g.u.MenuFactory: Skipping org.apache.jmeter.protocol.mongodb.config.MongoSourceElement
+2018-06-07 15:50:44,839 INFO o.a.j.g.u.MenuFactory: Skipping org.apache.jmeter.protocol.mongodb.sampler.MongoScriptSampler
+2018-06-07 15:50:44,925 INFO o.a.j.g.u.MenuFactory: Skipping org.apache.jmeter.timers.BSFTimer
+2018-06-07 15:50:44,942 INFO o.a.j.g.u.MenuFactory: Skipping org.apache.jmeter.visualizers.BSFListener
+2018-06-07 15:52:06,109 WARN o.a.j.e.u.FunctionParser: Probably an invalid function string: max_threads
+2018-06-07 15:52:06,109 WARN o.a.j.e.u.FunctionParser: Probably an invalid function string: max_threads
+2018-06-07 15:52:06,610 WARN o.a.j.e.u.FunctionParser: Probably an invalid function string: max_thread
+2018-06-07 15:52:06,610 WARN o.a.j.e.u.FunctionParser: Probably an invalid function string: max_thread
+2018-06-07 15:52:06,694 WARN o.a.j.e.u.FunctionParser: Probably an invalid function string: max_threa
+2018-06-07 15:52:06,694 WARN o.a.j.e.u.FunctionParser: Probably an invalid function string: max_threa
+2018-06-07 15:52:06,778 WARN o.a.j.e.u.FunctionParser: Probably an invalid function string: max_thre
+2018-06-07 15:52:06,778 WARN o.a.j.e.u.FunctionParser: Probably an invalid function string: max_thre
+2018-06-07 15:52:06,863 WARN o.a.j.e.u.FunctionParser: Probably an invalid function string: max_thr
+2018-06-07 15:52:06,863 WARN o.a.j.e.u.FunctionParser: Probably an invalid function string: max_thr
+2018-06-07 15:52:06,945 WARN o.a.j.e.u.FunctionParser: Probably an invalid function string: max_th
+2018-06-07 15:52:06,945 WARN o.a.j.e.u.FunctionParser: Probably an invalid function string: max_th
+2018-06-07 15:52:07,029 WARN o.a.j.e.u.FunctionParser: Probably an invalid function string: max_t
+2018-06-07 15:52:07,030 WARN o.a.j.e.u.FunctionParser: Probably an invalid function string: max_t
+2018-06-07 15:52:07,111 WARN o.a.j.e.u.FunctionParser: Probably an invalid function string: max_
+2018-06-07 15:52:07,111 WARN o.a.j.e.u.FunctionParser: Probably an invalid function string: max_
+2018-06-07 15:52:07,196 WARN o.a.j.e.u.FunctionParser: Probably an invalid function string: max
+2018-06-07 15:52:07,196 WARN o.a.j.e.u.FunctionParser: Probably an invalid function string: max
+2018-06-07 15:52:07,280 WARN o.a.j.e.u.FunctionParser: Probably an invalid function string: ma
+2018-06-07 15:52:07,280 WARN o.a.j.e.u.FunctionParser: Probably an invalid function string: ma
+2018-06-07 15:52:07,363 WARN o.a.j.e.u.FunctionParser: Probably an invalid function string: m
+2018-06-07 15:52:07,363 WARN o.a.j.e.u.FunctionParser: Probably an invalid function string: m
+2018-06-07 15:52:07,446 WARN o.a.j.e.u.FunctionParser: Probably an invalid function string: 
+2018-06-07 15:52:07,447 WARN o.a.j.e.u.FunctionParser: Probably an invalid function string: 

@@ -1,0 +1,1 @@
+jmeter.bat -t static_content_test.jmx
